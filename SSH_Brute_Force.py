@@ -29,7 +29,7 @@ def write_file(file_name, data):
 # تعيين متغيرات
 ip_file = 'ip_addresses.txt'
 user_file = 'top_username_ssh.txt'
-password_file = 'top_100_passwords.txt'
+password_file = 'xato-net-10-million-passwords-1000000.txt'
 results_file = 'valid_ssh_attempts.txt'
 skipped_ips_file = 'skipped_ips.txt'
 
